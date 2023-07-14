@@ -14,9 +14,9 @@ export const LogoLink = styled.a`
     display: flex;
     justify-content: center;
     align-items: center;
-    z-index: 1;
+    z-index: 2;
 `
 
 export const IconArea = styled.span`
-    z-index: 1;
+    z-index: 2;
 `

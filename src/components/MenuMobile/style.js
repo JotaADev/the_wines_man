@@ -7,6 +7,7 @@ export const MenuStyled = styled.div`
     width: 100vw;
     height: 100vh;
     background-color: #FFB038;
+    z-index: 1;
 `
 
 export const ReservedArea = styled.div`
