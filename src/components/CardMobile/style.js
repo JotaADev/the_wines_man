@@ -10,6 +10,7 @@ export const CardArea = styled.div`
     position: relative;
     border-radius: 1.5rem;
     margin: 1.5rem 0;
+    padding: 0 1rem;
 
     &::before {
         content: "";

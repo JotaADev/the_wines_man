@@ -4,6 +4,7 @@ import NavBarMobile from '../../components/NavBarMobile';
 import Card from '../../components/Card/Card';
 import { AreaContent } from './style';
 import CardMobile from '../../components/CardMobile';
+import Footer from '../../components/Footer';
 
 const Home = () => {
 
@@ -90,6 +91,7 @@ const Home = () => {
                 ) }
                 
             </AreaContent>
+            <Footer/>
         </>
     );
 }

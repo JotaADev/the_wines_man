@@ -11,7 +11,7 @@ const NavBar = () => {
                 </LogoLink>
                 <NavMenu>
                     <NavOption href='/'>Home</NavOption>
-                    <NavOption href='/'>Cartela de Vinhos</NavOption>
+                    <NavOption href='/'>Carta de Vinhos</NavOption>
                     <NavOption href='/'>Quem Somos</NavOption>
                     <NavOption href='/'>Blog</NavOption>
                 </NavMenu>
